@@ -6,7 +6,5 @@ Files:
 - script.js: mobile navigation
 
 HOW TO VIEW:
-1. Extract the ZIP file.
-2. Open the folder.
-3. Double-click index.html to view it in your browser.
+1. Double-click index.html to view it in your browser.
 
